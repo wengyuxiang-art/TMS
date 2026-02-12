@@ -55,3 +55,35 @@
 - sudo echo 500 > brightness
 - sudo su (from $ to # (root))
 - echo 1060 | sudo tee brightness (tee capter output and input it)
+
+# tools
+
+- foo=bar
+- echo $foo
+- echo "value is $foo"
+- vim msd.sh
+- source mcd.sh
+- mcd test
+
+- cp project{1,2}
+
+- vim script.py
+- python script.py a b c
+- ./script.py a b c
+
+- ls 
+- ls project1
+- ls priject1/src
+- find . -name src -type d
+- find . -path '**/test/*.py' -type f
+
+- grep 
+
+- history
+
+- tree
+
+- broot
+
+
+
